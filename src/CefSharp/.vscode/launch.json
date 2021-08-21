@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+         {
+             "name": "MyLauncher",
+             "type":"clr",
+             "request": "launch",
+             "preLaunchTask": "mybuild",
+             "program": "${workspaceFolder}/cromuim.exe",
+             "args":[],
+             "console": "internalConsole",
+             "stopAtEntry": false,
+             "internalConsoleOptions": "openOnSessionStart"
+         }
+
+     ,]
+ }
